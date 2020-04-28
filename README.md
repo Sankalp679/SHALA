@@ -1,2 +1,3 @@
 # SHALA
-Course
+Course on Data Science,Machine Learning
+
