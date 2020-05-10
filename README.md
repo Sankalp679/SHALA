@@ -1,7 +1,7 @@
 # SHALA(DS,ML)
-Course on Data Science,Machine Learning/
-MastAI ki paathSHALA/
-(Index Page: Hritik Jaiswal)
+Course on Data Science,Machine Learning
+MastAI ki paathSHALA
+## (Index Page: Hritik Jaiswal)
 ## Topic
 
 |     Assignment           |                        Content           |
