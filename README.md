@@ -1,7 +1,7 @@
 # SHALA(DS,ML)
 Course on Data Science,Machine Learning
 MastAI ki paathSHALA
-## (Index Page: Hritik Jaiswal)
+## (Index Page: Hritik Jaiswal) Referred and tried to make like his repo
 ## Topic
 
 |     Assignment           |                        Content           |
