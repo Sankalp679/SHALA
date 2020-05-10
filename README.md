@@ -1,4 +1,4 @@
-# SHALA(DS,ML)
+# SHALA(DS,ML)(Index Page: Hritik Jaiswal)
 Course on Data Science,Machine Learning
 MastAI ki paathSHALA
 
