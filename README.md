@@ -14,3 +14,4 @@ MastAI ki paathSHALA
 |           6	           | **Decision Trees** : Definition of a decision tree, metrics of impurity, greedy algorithm to split a node, tree depth and pruning, ensemble of trees (random forest) |
 |           7	           | **Bayesian decision theory** : Bayes rule: Prior, likelihood, posterior, evidence, Gaussian density, sufficient statistics, maximum likelihood derivation for mean and covariance |
 |           8	           | **Linear models** : linear regression and its analytical solution, loss function, gradient descent and learning rate, logistic regression and its cost, SVM: hinge loss with L2 penalty |
+|           9	           | **Kernelization**: Dual form of an SVM, kernels for a dual form, examples of kernels and their typical uses, SVR in primal form, SVR in dual form|
