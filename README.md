@@ -1,5 +1,5 @@
-# SHALA(DS,ML)
-Course on Data Science,Machine Learning
+# SHALA 2020 (DS,ML)
+Course on Data Science,Machine Learning,Deep Learning
 MastAI ki paathSHALA
 ## (Index Page: Hritik Jaiswal) Referred and tried to make like his repo
 ## Topic
@@ -15,3 +15,4 @@ MastAI ki paathSHALA
 |           7	           | **Bayesian decision theory** : Bayes rule: Prior, likelihood, posterior, evidence, Gaussian density, sufficient statistics, maximum likelihood derivation for mean and covariance |
 |           8	           | **Linear models** : linear regression and its analytical solution, loss function, gradient descent and learning rate, logistic regression and its cost, SVM: hinge loss with L2 penalty |
 |           9	           | **Kernelization**: Dual form of an SVM, kernels for a dual form, examples of kernels and their typical uses, SVR in primal form, SVR in dual form|
+|           10	           | **Feature selection and engineering** : Normalization, text analysis, T-test, forward selection, features for images, features for audio, features for images, features for NLP, PCA, ZCA, K-PCA |
