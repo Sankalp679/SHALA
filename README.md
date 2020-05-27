@@ -1,7 +1,7 @@
 # SHALA 2020 (DS,ML)
 Course on Data Science,Machine Learning,Deep Learning
 MastAI ki paathSHALA
-# (Index Page: Hritik Jaiswal) Referred and tried to make like his repo and index page borrowed from his repo.
+## (Index Page: Hritik Jaiswal) Referred and tried to make like his repo and index page borrowed from his repo.
 ## Topic
 
 |     Assignment           |                        Content           |
@@ -21,7 +21,7 @@ MastAI ki paathSHALA
 |           13	           | **Clustering**: K-means, DB-SCAN, agglomerative clustering, scaling of dimensions, goodness of clustering |
 
 ## DataCamp Projects
-# (This is borrowed from sudhakar's sir repo)
+## (This is borrowed from sudhakar's sir repo).
 <p align="center">
   <img src="https://cdn.datacamp.com/main-app/assets/projects/projects-illustration-fb3e253ea0527cd53aafbd5ed1c4570a5c818c8deba9d0cedceb095bf64cb3fa.svg">
 </p>
