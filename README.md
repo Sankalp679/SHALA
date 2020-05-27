@@ -20,7 +20,7 @@ MastAI ki paathSHALA
 |           12	           | **Advanced topics in neural networks**: Weight initialization, momentum, weight decay, early stopping, batch SGD, advanced optimizers such as RMSprop and ADAM|
 |           13	           | **Clustering**: K-means, DB-SCAN, agglomerative clustering, scaling of dimensions, goodness of clustering |
 
-## DataCamp Projects 
+## DataCamp Projects
 <p align="center">
   <img src="https://cdn.datacamp.com/main-app/assets/projects/projects-illustration-fb3e253ea0527cd53aafbd5ed1c4570a5c818c8deba9d0cedceb095bf64cb3fa.svg">
 </p>
