@@ -21,7 +21,7 @@ MastAI ki paathSHALA
 |           13	           | **Clustering**: K-means, DB-SCAN, agglomerative clustering, scaling of dimensions, goodness of clustering |
 
 ## DataCamp Projects
-## (This is borrowed from sudhakar's sir repo).
+## (Image and this paragraph is borrowed from sudhakar's sir repo).
 <p align="center">
   <img src="https://cdn.datacamp.com/main-app/assets/projects/projects-illustration-fb3e253ea0527cd53aafbd5ed1c4570a5c818c8deba9d0cedceb095bf64cb3fa.svg">
 </p>
