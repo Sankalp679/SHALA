@@ -19,3 +19,15 @@ MastAI ki paathSHALA
 |           11	           | **Dense and shallow neural networks** : Logistic regression as a sigmoid, single hidden layer using sigmoid and ReLU, approximation of any function using a single hidden layer, overfitting, advantage of multiple hidden layers, neural networks for regression, multi-regression, multi-classification using softmax, back propagation. |
 |           12	           | **Advanced topics in neural networks**: Weight initialization, momentum, weight decay, early stopping, batch SGD, advanced optimizers such as RMSprop and ADAM|
 |           13	           | **Clustering**: K-means, DB-SCAN, agglomerative clustering, scaling of dimensions, goodness of clustering |
+
+## DataCamp Projects 
+<p align="center">
+  <img src="https://cdn.datacamp.com/main-app/assets/projects/projects-illustration-fb3e253ea0527cd53aafbd5ed1c4570a5c818c8deba9d0cedceb095bf64cb3fa.svg">
+</p>
+
+After finishing the ML/DL courses, I completed a few projects on [DataCamp](https://learn.datacamp.com/projects), as given below. These projects made me utilize both ML and DL skills using Python. 
+
+* [Predicting Credit Card Approvals](https://learn.datacamp.com/projects/558)
+* [The Android App Market on Google Play](https://learn.datacamp.com/projects/619)
+* [Do Left-handed People Really Die Young?](https://learn.datacamp.com/projects/479)
+
