@@ -19,6 +19,7 @@ MastAI ki paathSHALA
 |           11	           | **Dense and shallow neural networks** : Logistic regression as a sigmoid, single hidden layer using sigmoid and ReLU, approximation of any function using a single hidden layer, overfitting, advantage of multiple hidden layers, neural networks for regression, multi-regression, multi-classification using softmax, back propagation. |
 |           12	           | **Advanced topics in neural networks**: Weight initialization, momentum, weight decay, early stopping, batch SGD, advanced optimizers such as RMSprop and ADAM|
 |           13	           | **Clustering**: K-means, DB-SCAN, agglomerative clustering, scaling of dimensions, goodness of clustering |
+|           14	           | **CNNs for Image classification**: Applications of computer vision, implementation of convolution, building a convolutional neural network, image Classification using CNNs.|
 
 ## DataCamp Projects
 ## (Image and this paragraph is borrowed from sudhakar's sir repo).
