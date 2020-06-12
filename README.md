@@ -1,6 +1,6 @@
 # SHALA 2020 (DS,ML)
-Course on Data Science,Machine Learning,Deep Learning
-MastAI ki paathSHALA
+Course on Data Science, Machine Learning, Deep Learning
+(MastAI ki paathSHALA)
 ## (Index Page: Hritik Jaiswal) Referred and tried to make like his repo and index page borrowed from his repo.
 ## Topic
 
